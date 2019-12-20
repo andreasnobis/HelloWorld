@@ -5,4 +5,5 @@
       "author":"plentysystems AG",
       "type":"template",
       "serviceProvider":"HelloWorld\\Providers\\HelloWorldServiceProvider"
+      //hello word
 }
