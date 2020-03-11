@@ -5,7 +5,7 @@
     {
       "label": "Hello World",
       "menu": "order",
-      "urlKey": "hello-world",
+      "urlKey": "hello-world-2",
       "entryPoint": "index.html"
     }
   ]
