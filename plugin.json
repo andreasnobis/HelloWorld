@@ -1,5 +1,5 @@
 {
-      "name":"HelloWorld",
+      "name":"HelloWorld-Backend",
       "description":"My first plugin",
       "namespace":"HelloWorld",
       "author":"plentysystems AG",
