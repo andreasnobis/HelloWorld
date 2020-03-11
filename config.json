@@ -1,0 +1,60 @@
+[
+         {
+            "tab"       : "SystemPfad",
+            "key"       : "MyPlugin.title_text",
+            "label"     : "Systempfad",
+            "type"      : "text",
+            "default"   : "https://2.it-stnn.de/programme/CheckOrder/#/overview"
+        },
+        {
+            "tab"       : "SystemPfad",
+            "key"       : "MyPlugin.show_title",
+            "label"     : "Pfad benutzen",
+            "type"      : "checkbox",
+            "default"   : "1"
+        },
+        {
+            "tab"       : "Header",
+            "key"       : "header.company_logo_align",
+            "label"     : "Align company logo",
+            "type"      : "dropdown",
+            "possibleValues": {
+                "0" : "Left",
+                "1" : "Center",
+                "2" : "Right"
+            },
+            "default"   : "0"
+        },
+        {
+            "tab"       : "Footer",
+            "key"       : "footer.col_1_title",
+            "label"     : "Title of first column",
+            "type"      : "text",
+            "default"   : "Shop"
+        },
+        {
+            "tab"       : "SEO",
+            "key"       : "seo.text_area",
+            "label"     : "Text for search engines",
+            "type"      : "textarea",
+            "default"   : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+        },
+        {
+            "tab"       : "Item",
+            "key"       : "item.data",
+            "label"     : "Show item information",
+            "type"      : "multi_select",
+            "possibleValues": {
+                "item.technical_data": "Technical data",
+                "item.description": "Description"
+            },
+            "default"   : "all"
+        },
+        {
+           "tab"       : "Basket",
+           "key"       : "basket.variations",
+           "label"     : "Show Change variation button",
+           "type"      : "checkbox",
+           "default"   : true
+       }
+]
