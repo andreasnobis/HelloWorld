@@ -1,0 +1,12 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "MyFirstViewTest",
+  "menuEntries": [
+    {
+      "label": "Hello World",
+      "menu": "order",
+      "urlKey": "hello-world",
+      "entryPoint": "index.html"
+    }
+  ]
+}
